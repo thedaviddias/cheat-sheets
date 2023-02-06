@@ -5,6 +5,6 @@
 - [Learn vscode keyboard shortcuts](https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/)
 
 ## Side Menu
-| shortcut  | description          |
-| :-------- | :------------------- |
-| ⌘ + B     | Hide show side menu  |
+| shortcut | description         |
+|:-------- |:------------------- |
+| ⌘ + B    | Hide show side menu |
